@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'https://clouda3.herokuapp.com/',
+      'https://clouda3.herokuapp.com',
       
     ],
 
