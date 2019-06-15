@@ -20,10 +20,10 @@ module.exports.routes = {
   ***************************************************************************/
 
   '/': { view: 'pages/homepage' },
-  'post /newsong': 'SongsController.create',
-  'post /newplaylist': 'PlaylistController.create',
-  'get /allsongs': 'SongsController.find',
-  'delete /deletesong/:id': 'SongsController.destroy'
+  'post /newsong629': 'SongsController.create',
+  'post /newplaylist629': 'PlaylistController.create',
+  'get /allsongs629': 'SongsController.find',
+  'delete /deletesong629/:id': 'SongsController.destroy'
 
 
   /***************************************************************************
